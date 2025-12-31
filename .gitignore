@@ -1,0 +1,6 @@
+.DS_Store
+build/
+*.userinterface state
+UserInterfaceState.xcuserstate
+*.breakpointexecutionhistory
+*.xcuserdata
